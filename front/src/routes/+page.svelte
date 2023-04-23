@@ -1,6 +1,5 @@
 <script lang="ts">
     let count: number = 0;
-    let name: string = "James";
 
     function IncrementCount() {
         count++;
